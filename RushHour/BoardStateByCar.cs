@@ -10,8 +10,7 @@ namespace RushHour
     {
         public bool Equals(BoardState x, BoardState y)
         {
-            if (x.State.GetLength(0) != y.State.GetLength(0) || x.State.GetLength(1) != y.State.GetLength(1)
-                 || x.CarsOnBoard.Count != y.CarsOnBoard.Count)
+            if (x.CarsOnBoard.Count != y.CarsOnBoard.Count)
                 return false;
             for (int i = 0; i < x.CarsOnBoard.Count; i++)
             {
