@@ -1,4 +1,4 @@
-# RushHourGameSolver
+# Rush Hour Game Solver
 
 Motivation of this project is that it was one of my university's assignments. The Rush Hour is quite popular game, but if 
 you're not familiar with it, please visit:  and to try it yourself.
