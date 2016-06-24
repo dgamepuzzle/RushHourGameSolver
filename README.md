@@ -1,7 +1,8 @@
 # Rush Hour Game Solver
 
 Motivation of this project is that it was one of my university's assignments. The Rush Hour is quite popular game, but if 
-you're not familiar with it, please visit:  and to try it yourself.
+you're not familiar with it, please visit: [Rush Hour - Description](https://en.wikipedia.org/wiki/Rush_Hour_(board_game)) or 
+[try it yourself](http://www.thinkfun.com/play-online/rush-hour/).
 
 Here, I'm presenting the solver to the problem of finding consequent moves allowing the desired car to reach the exit. It 
 is the `minimal move` solution (if you read more about it, you might also want to find `minimal slide` solution, but it's not what this 
