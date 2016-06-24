@@ -30,7 +30,6 @@ with the `Enter` key. This is:
 This is to repeat for the whole of (`T`) times.
 
 Here's the example of the correct input:
-
 1  
 3  
 X 1 3 H 2  
@@ -40,7 +39,7 @@ B 3 1 V 2
 Have fun!
 
 
-Notes:
+<b>Notes</b>:
 - If you find it uncomfortable to provide the input from the console, feel free to adjust it to your need! I've just done to be 
 correct according to the given requirements. Modification with the provided code is trivial.
 - I've prepared some method that can display the consecutive board states. By default, they're not used, to improve the performance, 
