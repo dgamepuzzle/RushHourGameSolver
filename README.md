@@ -30,11 +30,12 @@ with the `Enter` key. This is:
 This is to repeat for the whole of (`T`) times.
 
 Here's the example of the correct input:
-1
-3
-X 1 3 H 2
-A 0 0 H 3
-B 3 1 V 2
+
+1  
+3  
+X 1 3 H 2  
+A 0 0 H 3  
+B 3 1 V 2  
 
 Have fun!
 
